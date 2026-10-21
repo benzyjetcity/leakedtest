@@ -1,0 +1,4 @@
+  "AadClientId": "91d4e58c-30a2-4879-8974-c8576295e7c7",
+  "AadSecret": "aBx8Q~w6xf2rmjVXJy36IB08WO_uTgTuX-pAXcCa",
+  "AadTenantDomain": "takatsukavs.onmicrosoft.com",
+  "AadTenantId": "34b44bc3-c07b-47ea-8b7e-b5450d9076e8",
